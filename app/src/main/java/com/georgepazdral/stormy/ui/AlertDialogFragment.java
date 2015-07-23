@@ -1,10 +1,12 @@
-package com.georgepazdral.stormy;
+package com.georgepazdral.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.georgepazdral.stormy.R;
 
 /**
  * Created by georgepazdral on 7/5/15.
